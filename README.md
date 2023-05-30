@@ -1,0 +1,3 @@
+- 👋 Salut ! Moi c'est @Galcenor
+- 💻 Je suis actuellement en formation DEV Web | Web Mobile (30/05/2023)
+- 📚 Je suis sur GitHUB par sauvegarde de mon travail et soif d'apprentissage en plus
